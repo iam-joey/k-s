@@ -16,7 +16,7 @@ export default function Home() {
       <Hero2 />
       <Contact />
       <Service />
-      {/* <Trusted /> */}
+      <Trusted />
       <Footer />
     </div>
   );
