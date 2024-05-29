@@ -72,11 +72,14 @@ export function Service() {
                 </svg>
               </div>
               <h3 className="text-lg leading-normal mb-2 font-semibold text-black">
-                Ambulance Services
+                General Commute Transportation
               </h3>
               <p className="text-gray-500">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Doloribus est a placeat cupiditate nam enim soluta veniam error
+                For non-medical travel needs, we provide reliable transportation
+                services across Minnesota. Whether it's commuting to work,
+                attending social events, or just a day out in the city, our
+                service ensures you arrive at your destination on time and with
+                ease.
               </p>
             </div>
             {/* end service block */}
@@ -98,11 +101,14 @@ export function Service() {
                 </svg>
               </div>
               <h3 className="text-lg leading-normal mb-2 font-semibold text-black">
-                Ambulance Services
+                Medical Transportation
               </h3>
               <p className="text-gray-500">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Doloribus est a placeat cupiditate nam enim soluta veniam error
+                We offer specialized transportation for medical appointments,
+                procedures, and emergency services. Our vehicles are equipped to
+                ensure comfort and safety for patients with various health
+                conditions, and our drivers are trained to handle medical
+                transport with the utmost care and discretion.
               </p>
             </div>
             {/* end service block */}
@@ -124,11 +130,14 @@ export function Service() {
                 </svg>
               </div>
               <h3 className="text-lg leading-normal mb-2 font-semibold text-black">
-                Ambulance Services
+                Customized Transportation Solutions
               </h3>
               <p className="text-gray-500">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Doloribus est a placeat cupiditate nam enim soluta veniam error
+                Understanding that each client has unique needs, we offer
+                customized transportation solutions tailored to individual
+                preferences and requirements. From single trips to regular daily
+                services, we are here to accommodate all your transportation
+                needs with professionalism and dedication.
               </p>
             </div>
             {/* end service block */}

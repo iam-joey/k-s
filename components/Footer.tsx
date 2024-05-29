@@ -27,7 +27,7 @@ export function Footer() {
 
     {
       href: "javascript:void()",
-      name: "Suuport",
+      name: "Support",
     },
   ];
 
@@ -35,9 +35,8 @@ export function Footer() {
     <footer className="text-gray-500 bg-white px-4 py-5 max-w-screen-xl mx-auto md:px-8 mt-3 border-t">
       <div className="max-w-lg sm:mx-auto sm:text-center">
         <p className="leading-relaxed mt-2 text-[15px]">
-          Lorem Ipsum has been the industry standard dummy text ever since the
-          1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book.
+          "Transporting Minnesota with Care and Precision. Wherever you go,
+          we're here for every journey."
         </p>
       </div>
       <ul className="items-center justify-center mt-8 space-y-5 sm:flex sm:space-x-4 sm:space-y-0">
@@ -51,7 +50,7 @@ export function Footer() {
       </ul>
       <div className="mt-8 items-center justify-between sm:flex">
         <div className="mt-4 sm:mt-0">
-          &copy; 2024 Karthik Sameer All rights reserved.
+          &copy; 2024 Mid Minesota Transportation Dispatch All rights reserved.
         </div>
         <div className="mt-6 sm:mt-0">
           <ul className="flex items-center space-x-4">

@@ -38,7 +38,7 @@ export function Contact() {
               Our friendly team is here to help.
             </p>
             <p className="mt-2 text-blue-500 dark:text-blue-400">
-              hello@karthiksameer.com
+              support@midminesotatransportationdispatch.com
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export function Contact() {
               Come say hello at our office HQ.
             </p>
             <p className="mt-2 text-blue-500 dark:text-blue-400">
-              100 Smith Street Collingwood VIC 3066 AU
+              313 Litchfield Ave SW, Willmar, MN 56201
             </p>
           </div>
 
@@ -101,7 +101,7 @@ export function Contact() {
               Mon-Fri from 8am to 5pm.
             </p>
             <p className="mt-2 text-blue-500 dark:text-blue-400">
-              +1 (555) 000-0000
+              +1 (612) 636-9533
             </p>
           </div>
         </div>
