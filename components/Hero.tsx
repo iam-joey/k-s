@@ -5,7 +5,7 @@ export function Hero() {
     <div className="relative w-full bg-white my-2 ">
       <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
         <div className="flex flex-col justify-center px-4 py-12 md:py-16 lg:col-span-7 lg:gap-x-6 lg:px-6 lg:py-24 xl:col-span-6">
-          <h1 className="mt-8 text-xs font-bold tracking-tight text-black md:text-4xl lg:text-6xl">
+          <h1 className="mt-8 text-4xl font-bold tracking-tight text-black md:text-2xl lg:text-4xl">
             Reliable Transportation Solutions for Medical and Everyday Needs in
             Minnesota
           </h1>

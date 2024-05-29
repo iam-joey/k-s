@@ -5,7 +5,7 @@ export default function Hero2() {
   return (
     <>
       <div className="xl:px-20 px-6 py-20 xl:mx-auto xl:container">
-        <h1 className="xl:text-5xl md:text-4xl text-2xl font-semibold leading-tight text-center text-gray-800 sm:mb-0 mb-12">
+        <h1 className="xl:text-5xl md:text-4xl text-xl font-semibold leading-tight text-center text-gray-800 sm:mb-0 mb-12">
           We have provided professional transportation services for both medical
           needs and general commuting to over 1K+ clients throughout Minnesota.
         </h1>
