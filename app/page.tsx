@@ -3,6 +3,7 @@ import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import Hero2 from "@/components/Hero2";
 import Service from "@/components/Service";
+import Trusted from "@/components/Trusted";
 
 export default function Home() {
   return (
@@ -12,8 +13,10 @@ export default function Home() {
         <div className="bg-yellow-400">02</div>
       </div> */}
       <Hero />
+      <Hero2 />
       <Contact />
       <Service />
+      {/* <Trusted /> */}
       <Footer />
     </div>
   );
