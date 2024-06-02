@@ -76,10 +76,10 @@ export function Service() {
               </h3>
               <p className="text-gray-500">
                 For non-medical travel needs, we provide reliable transportation
-                services across Minnesota. Whether it&apos;s commuting to work,
-                attending social events, or just a day out in the city, our
-                service ensures you arrive at your destination on time and with
-                ease.
+                services across Rural Minnesota. Whether it&apos;s commuting to
+                work, attending social events, or just a day out in the city,
+                our service ensures you arrive at your destination on time and
+                with ease.
               </p>
             </div>
             {/* end service block */}
